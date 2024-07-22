@@ -133,7 +133,6 @@
         <button onclick="playAudio()">Включить музыку</button>
         <audio id="birthdayAudio">
             <source src="C:\Users\THINKPAD\Desktop\birthday\music\birthday_song.mp3" type="audio/mp3">
-            Ваш браузер не поддерживает воспроизведение аудио.
         </audio>
     </div>
 
