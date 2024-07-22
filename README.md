@@ -1,1 +1,161 @@
 
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>С Днем Рождения, Дедушка!</title>
+    <style>
+        body {
+            font-family: 'Georgia', serif;
+            background: linear-gradient(120deg, #f6d365 0%, #fda085 100%);
+            color: #333;
+            text-align: center;
+            padding: 20px;
+            margin: 0;
+        }
+        .container {
+            background: #ffffff;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+            max-width: 700px;
+            margin: 20px auto;
+        }
+        h1 {
+            color: #FF6347;
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+            margin: 10px 0;
+        }
+        .heart {
+            color: #FF6347;
+            font-size: 48px;
+            margin: 20px 0;
+        }
+        .slideshow-container {
+            position: relative;
+            max-width: 100%;
+            margin: 20px auto;
+        }
+        .slides {
+            display: none;
+        }
+        .active {
+            display: block;
+        }
+        .fade {
+            animation: fadeEffect 1.5s;
+        }
+        @keyframes fadeEffect {
+            from {opacity: 0.4} 
+            to {opacity: 1}
+        }
+        @media (min-width: 768px) {
+            h1 {
+                font-size: 48px;
+            }
+            p {
+                font-size: 20px;
+            }
+        }
+        .audio-control {
+            margin: 20px 0;
+        }
+        .audio-control button {
+            background-color: #FF6347;
+            color: white;
+            border: none;
+            padding: 15px 30px;
+            font-size: 18px;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+        .audio-control button:hover {
+            background-color: #ff4500;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Сәбит ата, туған күніңізбен!</h1>
+        <div class="heart">❤</div>
+        <p>Қымбатты Сәбит ата,</p>
+        <p> Сізді шын жүректен туған күніңізбен құттықтаймын! Өміріңіздің әрбір күні қуаныш пен шаттыққа, бақыт пен бейбітшілікке толы болсын. Денсаулығыңыз мықты, көңіл-күйіңіз көтеріңкі болсын. Сіздің өміріңіз біз үшін үлгі, даналығыңыз бен мейірімділігіңіз бізге әрдайым жол көрсетіп келеді. Алдағы жылдарыңыз табысты, молшылықта және жақындарыңыздың арасында бақытты өтсін деп тілеймін. Әрбір жаңа таң Сізге қуаныш пен бақыт әкелсін!
+        </p>
+        <p>Ізгі ниетпен, </p>
+        <p>Сіздің жақындарыңыз</p>
+        
+        <div class="slideshow-container">
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/d21adaef-bc84-4928-b3e1-a9e2c1deab8a" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/f3a9e78a-ef68-4f1f-b822-2b48d407b857" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/d0b7d028-aa20-4f4e-819b-16311a39e043" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/63402df0-a132-455f-8063-fa2da2a1b67d" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/694e79b2-3c04-4ff7-aadc-e2780d235394" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/75dc5457-a2f8-45d3-84b4-bba9249bc1a7" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/5b678255-5687-4cc2-85ea-8c586f143250" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/a75568bb-b00b-4424-93b0-705f9197e820" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/0d31390c-1faf-4ec7-8ca7-217ccef717ca" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/0f37cf85-e18c-4591-8d4b2ee4076b6883" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/2d6895fc-dbea-44f9-a1ba-b12db77a4046" style="width:100%; border-radius: 10px;">
+            </div>
+            <div class="slides fade">
+                <img src="https://github.com/user-attachments/assets/2ab9dc7e-f7bd-4fad-9089-9ba875bffaa1" style="width:100%; border-radius: 10px;">
+            </div>
+        </div>
+    </div>
+
+    <div class="audio-control">
+        <button onclick="playAudio()">Включить музыку</button>
+        <audio id="birthdayAudio">
+            <source src="C:\Users\THINKPAD\Desktop\birthday\music\birthday_song.mp3" type="audio/mp3">
+            Ваш браузер не поддерживает воспроизведение аудио.
+        </audio>
+    </div>
+
+    <script>
+        let slideIndex = 0;
+        showSlides();
+
+        function showSlides() {
+            let slides = document.getElementsByClassName("slides");
+            for (let i = 0; i < slides.length; i++) {
+                slides[i].style.display = "none";
+            }
+            slideIndex++;
+            if (slideIndex > slides.length) {slideIndex = 1}
+            slides[slideIndex-1].style.display = "block";
+            setTimeout(showSlides, 3000); // Change image every 3 seconds
+        }
+
+        function playAudio() {
+            document.getElementById("birthdayAudio").play();
+        }
+    </script>
+</body>
+</html>
