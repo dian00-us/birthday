@@ -164,20 +164,20 @@
             </div>
             <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/d2425a8c-0c74-4cc5-a83b-e280479dad22" style="width:100%; border-radius: 10px;">
-        </div>
-        <div class="slides fade">
+            </div>
+            <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/5e9d237e-5217-4dc6-b94b-c03a5d221f32" style="width:100%; border-radius: 10px;">
-        </div>
-        <div class="slides fade">
+            </div>
+            <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/05db45ec-27da-49b3-9404-a320114486d0" style="width:100%; border-radius: 10px;">
-        </div>
-        <div class="slides fade">
+            </div>
+            <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/f18e461e-df2c-4f64-b263-b4da265cb309" style="width:100%; border-radius: 10px;">
-        </div>
-        <div class="slides fade">
+            </div>
+            <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/e9ce19ab-3f5e-424a-92c5-56d6a8d5412f" style="width:100%; border-radius: 10px;">
-        </div>
-        <div class="slides fade">
+            </div>
+            <div class="slides fade">
                 <img src="https://github.com/user-attachments/assets/25484cf6-8b16-4b3a-9a91-91412bb787e1" style="width:100%; border-radius: 10px;">
         </div>
         <div class="slides fade">
